@@ -2,7 +2,7 @@ Hi,  I'm Hieu.
 
 I pasionate in making excited mobile apps.
 
-Currently, I 'm mainly working with React Native. My aim is master at React Native and then iOS and Android as well.
+Currently, I 'm mainly working with React Native. My aim is master React Native and then iOS and Android as well.
 
 Do your best to be the best!
 
